@@ -1,5 +1,4 @@
 import {
-    AUTH_USER,
     LOGIN_USER,
     REGISTER_USER,
     AUTH_USER
